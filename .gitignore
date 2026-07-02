@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node / Dependencies (just in case you add npm later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE and Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables
+.env
